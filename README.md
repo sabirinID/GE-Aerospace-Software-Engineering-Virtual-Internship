@@ -1,6 +1,10 @@
 # GE Aerospace: Software Engineering
 
+<p align="center">
+    <img src="GE_Aerospace.png" alt="GE Aerospace" width="auto" height="100px"></p>
+<p align="justify">
 Discover Digital Technology at GE Aerospace
+</p>
 
 [Click to view website →](https://www.theforage.com/simulations/ge-aerospace/digital-technology-yoa9)
 
