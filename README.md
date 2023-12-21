@@ -17,3 +17,5 @@ Discover Digital Technology at GE Aerospace
 
 2. Write technical requirements
   > Prepare technical requirements for a supply chain management application
+
+## References
