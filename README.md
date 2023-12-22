@@ -19,3 +19,9 @@ Discover Digital Technology at GE Aerospace
   > Prepare technical requirements for a supply chain management application
 
 ## References
+
+1. https://vuejs.org/guide/introduction.html
+2. https://github.com/vuejs/core
+3. https://www.geeksforgeeks.org/vue-js/
+4. https://www.w3schools.com/whatis/whatis_vue.asp
+5. https://wildlearner.com/learn/course/vue-js/
