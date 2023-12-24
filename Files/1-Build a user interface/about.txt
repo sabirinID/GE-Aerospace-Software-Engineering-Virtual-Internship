@@ -46,3 +46,16 @@ Once you've completed all of the task steps, please submit your deliverable.
 Upload your App.vue file
 
 	Select a File or drag it here.
+
+# Submission complete, great work!
+
+# Congratulations - let's review the example answer!
+To open a VUE File on Mac OS, use TextEdit when selecting a program to open the file.
+
+To open a VUE File on Windows, use Microsoft Visual Studio Code (multiplatform) or any other text or source code editor.
+
+	Example Answer - App.vue
+	https://cdn.theforage.com/vinternships/companyassets/ay2tsYxaTif7Nt6z7/AA4Bnq2tJHALwE8cg/1680719332822/Example%20Answer%20-%20App%20Vue.vue
+
+# Nice work!
+You just completed Task 1 of the Explore Digital Technology Job Simulation
