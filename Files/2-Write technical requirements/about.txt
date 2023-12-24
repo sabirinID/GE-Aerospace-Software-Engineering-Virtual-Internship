@@ -1,0 +1,41 @@
+Task 2: Write technical requirements
+Prepare technical requirements for a supply chain management application
+
+# Here is the background information on your task
+Now that you've built a basic application with Vue.js, you're ready to try out a different part of your role as a digital technology intern. 
+
+For this task, you'll take the role of a product owner on the digital technology team. At GE Aerospace, the product owner serves as the liaison between the technical team and the end user. You'll need to translate business requirements into a workable strategy for the technical team and ensure clear communication between various stakeholders, such as the development team, customer, and company leadership.
+
+Upper management has requested that the digital technology team start work on a new supply chain analytic feature. Before the digital technology team can begin development work, someone needs to convert management's business requirements into technical requirements. Your manager thinks this is a great task for you to tackle next!
+
+This new feature will be designed to suggest the optimal time to order various new plane parts. GE management would like the system to provide order times that are early enough to avoid shortages but late enough to keep costs low.
+
+Your task is to convert these business requirements into technical requirements that can be implemented by the technical team.
+
+# Here is your task
+In this task, you'll be writing technical requirements for a new supply chain feature that suggests the optimal time to order new plane parts. This calculation will be based on various factors, such as the date of the part's last replacement, the average time between replacements, and estimated shipping times.
+
+Your task is to convert these business requirements into technical requirements that can be implemented by the technical team.
+
+1. Review the resources below to learn the basics of supply chain analytics, as well as the components of technical requirements.
+2. Explore possible strategies for pursuing the provided business requirements and include this information in your technical requirements.
+3. Consider questions that the technical team might have about the business requirements, and aim to answer these questions in your document.
+4. Prepare a draft of the technical requirements for this feature. A "Draft Template" has been provided to help get you started, but don't feel obligated to stick to it. Your requirements don't need to be all-encompassing. Think of it as a draft that will need to be run past stakeholders, including management and the technical team!
+
+When you're happy with your draft, submit your text on the next page.
+
+# Here are some resources to help you
+
+	Overcoming Supply Chain Challenges
+	https://nbaa.org/news/business-aviation-insider/2021-nov-dec/overcoming-supply-chain-challenges/
+
+	Why Business and Functional Requirements are Vital for a Project’s Success
+	https://www.netsolutions.com/insights/business-and-functional-requirements-what-is-the-difference-and-why-should-you-care/
+
+	A practical guide to writing technical specs
+	https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/
+
+	Draft Template
+	https://cdn.theforage.com/vinternships/companyassets/ay2tsYxaTif7Nt6z7/HY2BzGQCgSsstSr7e/1681306643137/Task%20Two%20Draft%20Template.docx
+
+# Type your answer below
