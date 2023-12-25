@@ -67,3 +67,5 @@ a. Average number of days between a part’s arrival and the date it is needed.
 b. The percentage of parts received on time.
 c. Lost monetary value due to late parts. 
 d. Surplus spending due to early part arrival.
+
+# Final Task Complete!
